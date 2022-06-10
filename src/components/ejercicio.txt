@@ -1,0 +1,15 @@
+1. crear un component
+
+2. recibir un prop con el año actual
+
+3 Ojo , usar funcione spara sacar el año actual
+
+4 usar estadis y eventos para tener dos botones
+  -para al proximo año actual
+  -Ir al año anterior el
+  -Mostrar en todo momento el año por pantalla
+
+5 validar que el año sea un numero y que sea requerido (prop)
+
+6 cambiar el año mediante un input de texto y que se cambie dinamicamente
+
